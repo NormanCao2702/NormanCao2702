@@ -1,4 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tran============================================================================================================================* 🌍  I'm based in Burnaby, BC, Canada* ✉️  You can contact me at [tqc@sfu.ca](mailto:tqc@sfu.ca)* ⚡  Arthur C. Clarke — 'Two possibilities exist: either we are alone in the Universe or we are not. Both are equally terrifying.'
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tran
+============================================================================================================================
+
+* 🌍  I'm based in Burnaby, BC, Canada* ✉️  You can contact me at [tqc@sfu.ca](mailto:tqc@sfu.ca)* ⚡  Arthur C. Clarke — 'Two possibilities exist: either we are alone in the Universe or we are not. Both are equally terrifying.'
 
 ### Skills
 
