@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhkdXFkdGZyaDJ4eG1hOWF4cWl1eno4Zzh3ZmhoaTlhcjF4YXgwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iicDrNGWxHmDrIni6j/giphy.gif)
+![MasterHead](https://github.com/NormanCao2702/NormanCao2702/issues/1#issue-2104071663)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tran
 ============================================================================================================================
