@@ -32,8 +32,9 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ngoc2702?theme=dark&font=Josefin%20Sans&ext=heatmap) -->
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tran
-
----
+* 🌍 I'm based in Burnaby, BC, Canada
+* ✉️  You can contact me at [tqc@sfu.ca](mailto:tqc@sfu.ca)
+* 📚 Arthur C. Clarke — 'Two possibilities exist: either we are alone in the Universe or we are not. Both are equally terrifying.'
 
 <h3 align="center">Skills</h3>
 
@@ -65,7 +66,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NormanCao2702&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 <a href="https://github.com/NormanCao2702">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NormanCao2702&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NormanCao2702&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%5%Languages" alt="Top Languages" />
 </a>
 </p>
 
