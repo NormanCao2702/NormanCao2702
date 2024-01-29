@@ -50,7 +50,7 @@
 <a href="https://www.linkedin.com/in/tran-quang-ngoc-cao-4b52a6237/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 </p>
 
----
+***
 
 <h3 align="center">Badges</h3>
 
@@ -66,7 +66,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NormanCao2702&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 <a href="https://github.com/NormanCao2702">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NormanCao2702&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%5%Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NormanCao2702&langs_count=5&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%10%Languages" alt="Top Languages" />
 </a>
 </p>
 
