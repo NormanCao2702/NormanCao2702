@@ -54,11 +54,7 @@
 
 ***
 
-<h3 align="center">Badges</h3>
-
-<p align="center">
-<!-- Your badges/stats here -->
-</p>
+<h3 align="center">Stats</h3>
 
 <p align="center">
 <a href="http://www.github.com/NormanCao2702">
@@ -68,7 +64,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NormanCao2702&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 <a href="https://github.com/NormanCao2702">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NormanCao2702&langs_count=5&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%5%Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NormanCao2702&langs_count=4&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%4%Languages" alt="Top Languages" />
 </a>
 </p>
 
