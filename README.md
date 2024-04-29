@@ -68,7 +68,5 @@
 </a>
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ngoc2702?theme=dark&font=Josefin%20Sans&ext=heatmap" alt="LeetCode Stats" />
-</p>
+
 
